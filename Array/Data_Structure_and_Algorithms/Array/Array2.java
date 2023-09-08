@@ -1,3 +1,4 @@
+package Data_Structure_and_Algorithms.Array;
 public class Array2 {
           public static void main(String[] args) {
                     int arr[] = { 2, 4, 6, 8, 10, 12, 14, 16 };
